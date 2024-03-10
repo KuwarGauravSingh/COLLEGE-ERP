@@ -1,5 +1,5 @@
                                                               
-                                                               College ERP System
+                                                         College ERP System
                                                                
                                                                                           
 Welcome to the College ERP System repository! This project is a comprehensive web-based solution designed to streamline and manage various aspects of a college's operations, including student registration, academic records management, and family information tracking.
